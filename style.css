@@ -119,3 +119,42 @@ h3,
     font-weight: bold;
 }
 
+.signup-box {
+    background-color: #3882F6;
+    margin: 50px 150px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #f9f9f9;
+    padding: 50px 100px;
+}
+
+.left-signup > p {
+    margin: 0;
+}
+
+.signup-head {
+    font-weight: bold;
+}
+
+.signup-text {
+    font-weight: 300;
+}
+
+.right-signup > button {
+    border: solid white;
+    border-radius: 5px;
+    background: none;    
+    color: #F9FAF8;
+    padding: 5px 30px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    padding: 10px;
+}
+
