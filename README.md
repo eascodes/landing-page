@@ -4,4 +4,4 @@ The goal of this project is to create a landing page. The purpose is to practice
 
 Photo credits:
 All photos are from Pexels.com
-Contributors (in order of photos from top-bottom/left-right) include: Tara Winstead, Tabitha Mort, Karolina Grabowska
+Contributors include: Tara Winstead, Tabitha Mort, Karolina Grabowska

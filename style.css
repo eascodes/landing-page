@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: "roboto", sans-serif;
 }
 
 .one,
@@ -37,7 +37,6 @@ ul,
 
 .main-text {
     font-size: 48px;
-    font-weight: extra-bold;
     color: #F9FAF8;
 }
 
@@ -51,7 +50,10 @@ img {
     width: 30vw;
 }
 
-h3,
+h4 {
+    margin: 0;
+}
+
 .main-subtext {
     margin: 0 0 10px 0;
 }
@@ -103,6 +105,7 @@ h3,
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     padding: 50px 250px;
 }
@@ -112,11 +115,13 @@ h3,
     font-style: italic;
     font-weight: 200;
     color: #1F2937;
+    margin-bottom: 0;
 }
 
 .customer {
     margin: 0;
     font-weight: bold;
+    align-self: flex-end;
 }
 
 .signup-box {
@@ -136,6 +141,7 @@ h3,
 
 .signup-head {
     font-weight: bold;
+    font-size: 18px;
 }
 
 .signup-text {
